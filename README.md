@@ -8,5 +8,7 @@ Steps to Run :
 3) Open app.py in PyCharm
 4) Install streamlit
 5) Run command : 'streamlit run app.py'
+
 and Done !!
+
 Dataset Link : https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
